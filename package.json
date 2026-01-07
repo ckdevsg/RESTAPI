@@ -1,0 +1,23 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ckdevsg/RESTAPI#readme",
+  "bugs": {
+    "url": "https://github.com/ckdevsg/RESTAPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckdevsg/RESTAPI.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
